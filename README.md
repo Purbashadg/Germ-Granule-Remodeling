@@ -1,4 +1,4 @@
-# Germ-Granule-Aging
+# Germ-Granule-Remodeling
 
 Code accompanying **“Germ Granule Remodeling Reveals Germline Age in Caenorhabditis elegans”** by Purbasha Dasgupta, Ryan J. Lee, Erica Dinneen, and Carlos G. Silva-García.
 
